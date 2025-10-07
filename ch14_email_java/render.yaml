@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: ch14-email-java
+    env: docker
+    plan: free
